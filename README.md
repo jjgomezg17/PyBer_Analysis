@@ -14,7 +14,7 @@
 
 #### Most rides are in Urban type cities, with 1,625 compared to less than 50% of this with Suburban cities with 625 and just under 10% with Rural cities with 125.
 
-### Likewise, it is evident that the total number of drivers is clearly proportional to the total number of rides in each type of city, following the same behavior as the total number of rides.
+#### Likewise, it is evident that the total number of drivers is clearly proportional to the total number of rides in each type of city, following the same behavior as the total number of rides.
 
 #### In the same way, the total of Fares has the same behavior as the variables just studied, however now the Rural and Suburban cities are a little higher proportionally compared to the Urban cities.
 
