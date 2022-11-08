@@ -8,7 +8,7 @@
 
 ## Pyber Challenge Results
 
-![1.1](https://raw.githubusercontent.com/jjgomezg17/kickstarter-analysis/main/resources/images/1.1.png)
+![1](https://raw.githubusercontent.com/jjgomezg17/PyBer_Analysis/main/Resources/Images/1.png)
 
 ### From the above summary DataFrame it is evident that:
 
@@ -22,7 +22,7 @@
 
 #### Finally, the last variable to study was the average fare per driver, in which the same behavior of the previous variable is evident and perhaps for similar reasons, but primarily the number of total divers by type of city and the fact of the proportional percentage decrease in the total of fares de urban with respect to the other two types of cities, comparing this variable with the others.
 
-![1.1](https://raw.githubusercontent.com/jjgomezg17/kickstarter-analysis/main/resources/images/1.1.png)
+![2](https://raw.githubusercontent.com/jjgomezg17/PyBer_Analysis/main/Resources/Images/2.png)
 
 ### Another interesting analysis for the company is the one that comes from the previous graph, where everything previously said regarding the total fare variable compared between cities is evident, but also when analyzing this behavior in different months, can draw other conclusions. For example, that at the end of February there is a considerable rise in the Total Fare in all types of city and that in most weeks through the months the same behavior can be obtained in the different cities, ignoring the range that occupies each one in USD.
 
